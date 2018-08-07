@@ -1,0 +1,1 @@
+{"virtualbox":{"/media/shared":{"guestpath":"/media/shared","hostpath":"/vagrant","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/kdoug0116/Desktop/CBSi International/git/master/bpi-r2_openwrt","disabled":false,"__vagrantfile":true}}}
